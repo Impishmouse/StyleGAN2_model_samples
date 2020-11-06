@@ -5,11 +5,25 @@ here are samples of models that I have
 
 
 
+## ukiyoe_256
+
+![](content/ukiyoe_256/grid.png)
+- [seed 1](content/ukiyoe_256/one_256_.png)
+
+## panda_256
+
+![](content/panda_256/grid.png)
+- [seed 1](content/panda_256/one_256_.png)
+
+## ffhq_e_256
+
+![](content/ffhq_e_256/grid.png)
+- [seed 1](content/ffhq_e_256/one_256_.png)
+
 ## cat_f_256
 
 ![](content/cat_f_256/grid.png)
 - [seed 1](content/cat_f_256/one_256_.png)
-
 
 ## fursona_512
 
@@ -95,4 +109,39 @@ here are samples of models that I have
 ![](content/ffhq_e_104/grid.png)
 - [seed 1](content/ffhq_e_104/one_1024_.png)
 
+## ffhq_f_1024
 
+![](content/ffhq_f_1024/grid.png)
+- [seed 1](content/ffhq_f_1024/one_1024_.png)
+
+## metFaces_1024
+
+![](content/metFaces_1024/grid.png)
+- [seed 1](content/metFaces_1024/one_1024_.png)
+
+## pokemon_1024
+
+![](content/pokemon_1024/grid.png)
+- [seed 1](content/pokemon_1024/one_1024_.png)
+
+## ponies_1024
+
+![](content/ponies_1024/grid.png)
+- [seed 1](content/ponies_1024/one_1024_.png)
+
+## toony_b_paint_64_1024
+
+![](content/toony_b_paint_64_1024/grid.png)
+- [seed 1](content/toony_b_paint_64_1024/one_1024_.png)
+
+
+## wiki_art_1_1024
+
+![](content/wiki_art_1_1024/grid.png)
+- [seed 1](content/wiki_art_1_1024/one_1024_.png)
+
+
+## wiki_art_2_1024
+
+![](content/wiki_art_2_1024/grid.png)
+- [seed 1](content/wiki_art_2_1024/one_1024_.png)
