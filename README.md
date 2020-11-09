@@ -76,7 +76,7 @@ here are samples of models that I have
 ## aBeauty_1024
 
 ![](content/aBeauty_1024/grid.png)
-- [seed 1](content/aBeauty_1024/one_1024_.png)
+- [details](content/aBeauty_1024/README.md)
 
 
 ## asian_1024
