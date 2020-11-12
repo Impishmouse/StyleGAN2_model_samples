@@ -5,3 +5,9 @@ Sample 1 seeed
 
 ## Grid
 ![](grid.png)
+
+## Projection Example 
+### example - source
+![](./projection/example_01.png)
+### example steps 100 - 700
+![](./projection/projection_by_steps.png )
