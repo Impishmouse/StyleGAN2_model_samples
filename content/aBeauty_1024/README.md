@@ -1,7 +1,7 @@
 # StyleGAN2 model aBeauty_1024
 
 ## Back to root
-- [Back](././README.md)
+- [Back](./../../README.md)
 
 ## Sample 1 seeed 
 ![](sample.png)
